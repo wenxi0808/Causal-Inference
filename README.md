@@ -61,6 +61,7 @@ Project 2 Background
 ACME Manufacturing, a leading direct seller of household goods in the US, has a widespread consumer base spanning all 50 states and Washington, DC. Leveraging the success of your consulting group's impactful work on the Career 2030 Impact Project, you've been endorsed by the Chief People Officer to the Chief Marketing Officer. The CMO, in the process of evaluating vendors for marketing effectiveness measurement services, is conducting a "bake-off" among six potential candidates.
 
 Problem
+
 Your analytics consulting group, specializing in causal inference, is among the contenders to continuously gauge the effectiveness of ACME's marketing campaigns. As a prerequisite, the client seeks a demonstration of your analytical approach, insights drawn from the data, and recommendations for optimizing marketing campaigns. The dataset spans two years of weekly order data across all 50 US states and Washington, DC. Your objective is to design a four-week experiment to measure the impact of a Google Performance MaxLinks to an external site. marketing campaign on a national scale. However, due to concurrent marketing activities, ACME has specified the candidate treatment markets as follows:
 
 Delaware
